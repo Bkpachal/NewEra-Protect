@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" role="img" aria-label="Illustration of a supplement bottle">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1d7a82"/><stop offset="1" stop-color="#12404a"/></linearGradient></defs>
+<ellipse cx="200" cy="490" rx="120" ry="18" fill="#12404a" opacity=".12"/>
+<rect x="135" y="40" width="130" height="70" rx="12" fill="#d9603b"/><rect x="135" y="95" width="130" height="16" fill="#bd4c29"/>
+<rect x="110" y="105" width="180" height="380" rx="34" fill="url(#g)"/>
+<rect x="128" y="190" width="144" height="210" rx="14" fill="#fcfdfd"/>
+<text x="200" y="245" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#12404a">NewEra</text>
+<text x="200" y="277" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#d9603b">Protect</text>
+<line x1="150" y1="298" x2="250" y2="298" stroke="#d8e6e5" stroke-width="2"/>
+<text x="200" y="326" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#55666b">Daily Dietary Supplement</text>
+<text x="200" y="346" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#55666b">Bladder &amp; Pelvic Floor</text>
+<text x="200" y="366" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#55666b">Wellness Support</text>
+<rect x="128" y="110" width="30" height="360" rx="15" fill="#fff" opacity=".12"/></svg>

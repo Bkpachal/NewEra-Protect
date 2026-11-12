@@ -1,0 +1,20 @@
+{
+  "name": "NewEra Protect Guide",
+  "short_name": "NewEra Guide",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fcfdfd",
+  "theme_color": "#12404a",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
